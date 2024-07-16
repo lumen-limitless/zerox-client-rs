@@ -1,5 +1,5 @@
 [package]
-name = "openapi"
+name = "zerox-client"
 authors = ["OpenAPI Generator team and contributors"]
 description = "These are the API references for the beta version of 0x API v2. If you are looking for API v1 references, [see here](/0x-swap-api/api-references/overview)."
 # Override this license by providing a License Object in the OpenAPI.
